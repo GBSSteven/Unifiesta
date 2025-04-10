@@ -3,7 +3,7 @@ node_modules/
 *.log
 npm-debug.log
 
-# Environment variables
+# Environment variables present in backend
 .env
 
 # Build outputs
